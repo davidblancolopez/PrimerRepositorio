@@ -12,6 +12,8 @@ public class PrimerPrograma {
         System.out.println("Hola Mundo");
         System.out.println("Hola Mundo");
         System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
     }
     
 }
